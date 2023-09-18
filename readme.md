@@ -4,8 +4,8 @@
 
 ### Windows
 
-https://github.com/lamualfa/waser/releases/latest/download/waser-win.exe
+https://github.com/lamualfa/waser/releases/latest/download/waser.exe
 
 ### Linux
 
-https://github.com/lamualfa/waser/releases/latest/download/waser-linux
+Soon
