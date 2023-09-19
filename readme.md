@@ -23,7 +23,7 @@ https://github.com/lamualfa/waser/releases/latest/download/waser-linux.zip
 1. Extract `waser-linux.zip`
 2. Open Terminal
 3. Navigate to `waser-linux` folder using `cd waser-linux`
-4. Run`sudo chmod +x ./waser` to give permission
+4. Run`sudo chmod +x ./waser` to give a permission
 5. Run `./waser` to open the Waser Application
 
 
